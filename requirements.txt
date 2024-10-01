@@ -8,3 +8,4 @@ controlnet_aux==0.0.3
 transformers==4.29.1
 accelerate==0.19.0
 setuptools
+distutils-pytest
