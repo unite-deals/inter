@@ -1,5 +1,5 @@
 streamlit==1.22.0
-pillow==9.5.0
+pillow==7.1.0
 torch==2.2.0
 diffusers==0.16.1
 setuptools==66.0.0
